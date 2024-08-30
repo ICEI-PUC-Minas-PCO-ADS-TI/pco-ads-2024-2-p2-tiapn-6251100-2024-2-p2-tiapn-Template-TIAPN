@@ -50,6 +50,24 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
 |RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Permitir que novos parceiros se registrem e forneçam informações sobre seus locais de doação	|ALTA|
+|RF-002| Facilitar o registro de voluntários que desejam contribuir com os parceiros e usuários da plataforma	|ALTA|
+|RF-003| Exibir uma lista ou mapa de todos os locais disponíveis para doação, com informações detalhadas sobre cada um	|ALTA|
+|RF-004| Permitir que os doadores deixem comentários e avaliem os locais de doação após utilizá-los	|MÉDIA|
+|RF-005| Enviar notificações para parceiros e doadores sobre atividades relevantes	|MÉDIA|
+|RF-006| Oferecer uma barra de pesquisa e filtros avançados para ajudar os usuários a encontrar locais de doação específicos	|ALTA|
+|RF-007| Facilitar a edição e manutenção das informações dos perfis de usuários registrados na plataforma	|ALTA|
+|RF-008| Permitir que os parceiros atualizem suas informações de perfil, como detalhes do local de doação e horários de funcionamento	|ALTA|
+|RF-009| Proporcionar um sistema de comunicação direta entre parceiros e doadores para discutir detalhes das doações	|ALTA|
+|RF-010| Utilizar geolocalização para mostrar aos usuários os locais de doação mais próximos	|ALTA|
+|RF-011| Permitir que os parceiros registrem os tipos específicos de doações que aceitam, como roupas, alimentos, eletrônicos, etc.	|ALTA|
+|RF-012| Oferecer a opção de filtrar os locais de doação com base na proximidade em relação à localização atual do usuário	|MÉDIA|
+|RF-013| Permitir que os usuários marquem locais de doação como favoritos para fácil acesso no futuro	|MÉDIA|
+|RF-014| Manter um registro de doações que foram rejeitadas pelos parceiros, incluindo os motivos para tal	|MÉDIA|
+|RF-015| Registrar todas as doações que foram aceitas pelos parceiros, facilitando o acompanhamento das atividades de doação do usuário	|ALTA|
+|RF-016| Permitir que os doadores deixem comentários sobre os parceiros, ajudando a manter a qualidade dos serviços oferecidos	|MÉDIA|
+|RF-017| Fornecer uma funcionalidade para os doadores avaliarem os parceiros com base na experiência de doação	|MÉDIA|
+|RF-018| Permitir que doadores enviem fotos das doações diretamente no chat com os parceiros, facilitando a comunicação e verificação do estado dos itens doados	|ALTA|
 
 ### Requisitos não funcionais
 
