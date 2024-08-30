@@ -48,8 +48,6 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 |RF-001| Permitir que novos parceiros se registrem e forneçam informações sobre seus locais de doação	|ALTA|
 |RF-002| Facilitar o registro de voluntários que desejam contribuir com os parceiros e usuários da plataforma	|ALTA|
 |RF-003| Exibir uma lista ou mapa de todos os locais disponíveis para doação, com informações detalhadas sobre cada um	|ALTA|
@@ -71,10 +69,16 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 
 ### Requisitos não funcionais
 
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em dispositivos móveis | MÉDIA | 
-|RNF-002| Deve processar as requisições do usuário em no máximo 3 segundos |  BAIXA | 
+| ID       | Descrição do Requisito                                                                                  | Prioridade |
+|----------|---------------------------------------------------------------------------------------------------------|------------|
+| RNF-001  | O site deve responder rapidamente às interações do usuário, com tempos de carregamento mínimos e processamento ágil, mesmo sob condições de alta carga. | ALTA       |
+| RNF-002  | A interface do site deve ser intuitiva, fácil de entender e de navegar, permitindo que usuários de todos os níveis técnicos possam utilizá-lo sem dificuldades. | ALTA       |
+| RNF-003  | O site deve proteger as informações dos usuários e parceiros contra ameaças como acessos não autorizados, ataques cibernéticos e vazamentos de dados. | ALTA       |
+| RNF-004  | O sistema deve estar disponível e funcional de forma consistente, com mínima ocorrência de falhas ou períodos de inatividade. | ALTA       |
+| RNF-005  | O design do site deve se adaptar a diferentes dispositivos e tamanhos de tela, proporcionando uma boa experiência de uso tanto em desktops quanto em dispositivos móveis. | MÉDIA      |
+| RNF-006  | O site deve funcionar corretamente em diferentes navegadores e sistemas operacionais, garantindo que todos os usuários tenham uma experiência consistente. | MÉDIA      |
+| RNF-007  | O código do site deve ser bem organizado, modular e documentado, facilitando a manutenção, correção de bugs e adição de novas funcionalidades. | ALTA       |
+| RNF-008  | O site deve garantir que os dados pessoais dos usuários sejam coletados, armazenados e processados de acordo com as regulamentações de privacidade aplicáveis. | ALTA       |
 
 Com base nas histórias de usuários, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
