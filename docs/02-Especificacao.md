@@ -7,38 +7,45 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto.
 
 ## Personas
+Durante a fase de compreensão do problema, identificamos as seguintes personas:
 
-Exemplo: _Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente por meio de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros._
+| João Almeida | Idade | Profissão | Frustrações | Hobbies|
+| ---- | :-----: | :---------:| :-----------:| :-----------------: |
+| ![image](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-1-tiaw-uaijobs/assets/164440525/1b69084e-81cd-4759-ad76-4b099084db73)| 32 anos | Analista de Suporte Técnico|Desconhecimento de onde doar<br/><br/>Falta de tempo em sua rotina| Ciclismo<br/><br/>Jogar Videogames|
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+| Fernanda Costa | Idade | Profissão | Frustrações | Hobbies|
+| ---- | :-----: | :---------:| :-----------:| :-----------------: |
+| ![image](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-1-tiaw-uaijobs/assets/164440525/1b69084e-81cd-4759-ad76-4b099084db73)| 25 anos | Estudante de Biologia<br/><br/> Estagiária de Laboratório|Falta de clareza sobre o que doar| Fazer trilhas<br/><br/>Cozinhar|
 
-> **Links úteis**:
-> - [Rock content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+| Pedro Nunes | Idade | Profissão | Frustrações | Hobbies|
+| ---- | :-----: | :---------:| :-----------:| :-----------------: |
+| ![image](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-1-tiaw-uaijobs/assets/164440525/1b69084e-81cd-4759-ad76-4b099084db73)| 45 anos | Gerente de projetos|Falta de confiança nas instituições<br/><br/>Acúmulo de objetos em casa| Apreciador de filmes clássicos<br/><br/>Fotografia|
+
+Um pouco sobre as personas:
+
+**João Almeida**
+
+João tem 32 anos e trabalha como analista de suporte técnico. Ele é prático, focado em soluções rápidas e sempre buscando formas de simplificar sua rotina. No dia a dia, João se sente sobrecarregado com o acúmulo de objetos em casa, especialmente porque ele não gosta de perder tempo com processos complicados. Ele prefere resolver tudo rapidamente pelo celular ou notebook, e sua frustração maior é não saber exatamente onde doar seus itens. O site de doações pode ajudá-lo oferecendo uma plataforma fácil de usar, que permita a ele doar com apenas alguns cliques e resolver esse problema de forma eficiente.
+
+**Fernanda Costa**
+
+Fernanda é uma jovem de 25 anos, estudante de biologia e estagiária em um laboratório ambiental. Muito preocupada com questões ecológicas e sociais, ela gosta de se envolver em causas que reflitam seus valores de sustentabilidade. Apesar de suas boas intenções, Fernanda muitas vezes se sente insegura sobre o impacto real de suas doações e quer garantir que suas ações realmente ajudem. Ela usa o celular e tablet para seguir iniciativas ambientais, e o site de doações pode oferecer a ela uma forma de contribuir para essas causas de forma tangível. Mostrando o impacto das doações e garantindo um processo sustentável, o site pode conectar Fernanda às necessidades das instituições de forma transparente.
+
+**Pedro Nunes**
+
+Pedro, com 45 anos, é gerente de projetos em uma empresa de tecnologia. Ele é organizado, gosta de ter controle sobre o que faz, e valoriza a segurança em todos os processos. Pedro quer doar objetos que não usa mais, mas se sente desconfiado quanto à transparência das instituições e a logística de entrega. Ele é metódico, acessa o site principalmente pelo laptop ou tablet e busca soluções que tragam garantias claras. O site de doações pode proporcionar a ele segurança e confiança ao fornecer informações detalhadas sobre o destino dos itens doados, assim como uma logística bem estruturada para facilitar o processo. Pedro ficará satisfeito com uma interface que ofereça transparência e acompanhamento das doações.
 
 ## Histórias de usuários
-
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuários que são relevantes para o projeto da sua solução. As histórias de usuários consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuários por contexto, para facilitar consultas recorrentes a esta parte do documento.
-
-> **Links úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (user stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 common user story mistakes](https://airfocus.com/blog/user-story-mistakes/)
+| `EU`            | `QUERO/PRECISO`                       | `PARA`                                    |
+|--------------------|------------------------------------|-------------------------------------------|
+| João Almeida       | Visualizar locais de doação         | Ter conhecimento de locais de entrega     |
+| João Almeida       | Uma plataforma rápida e simples     | Doar itens acumulados sem complicação     |
+| Fernanda Costa     | Saber o impacto das minhas doações  | Garantir que estou ajudando de forma útil |
+| Fernanda Costa     | Uma lista de itens necessários      | Doar algo que realmente seja útil         |
+| Pedro Nunes      | Saber da qualidade do local de doação | Doar com confiança e transparência        |
+| Pedro Nunes        | Uma logística simplificada          | Evitar complicações ao entregar doações   |
 
 ## Requisitos
 
