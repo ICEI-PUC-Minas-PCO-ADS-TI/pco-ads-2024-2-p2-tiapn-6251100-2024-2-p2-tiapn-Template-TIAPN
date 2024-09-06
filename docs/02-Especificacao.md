@@ -102,4 +102,5 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 ## Diagrama de casos de uso
 
 A imagem  ilustra o diagrama de caso de uso da plataforma DoaSô, demonstrando as principais interações entre os usuários (Doadores e Centros de Doações) e o sistema. O diagrama evidencia funcionalidades cruciais, tais como o cadastro de usuários, envio de propostas de doação, bem como a aceitação ou recusa dessas propostas pelos centros de doação. Ademais, destaca-se a possibilidade de  visualização dos centros mais próximos através de um mapa interativo, e a comunicação direta entre doadores e centros por meio de chat, assegurando um processo de doação eficiente, transparente e acessível.
+
 ![Diagrama de casos de uso](images/diagrama_caso_de_uso.png.png)
