@@ -80,24 +80,6 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 | RNF-007  | O código do site deve ser bem organizado, modular e documentado, facilitando a manutenção, correção de bugs e adição de novas funcionalidades. | ALTA       |
 | RNF-008  | O site deve garantir que os dados pessoais dos usuários sejam coletados, armazenados e processados de acordo com as regulamentações de privacidade aplicáveis. | ALTA       |
 
-Com base nas histórias de usuários, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos não funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-
-Lembre-se de que cada requisito deve corresponder a uma e somente uma característica-alvo da sua solução. Além disso, certifique-se de que todos os aspectos capturados nas histórias de usuários foram cobertos.
-
-> **Links úteis**:
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [Entenda o que são requisitos de software, a diferença entre requisito funcional e não funcional, e como identificar e documentar cada um deles](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 ## Restrições
 
 O projeto está restrito aos itens apresentados na tabela a seguir.
@@ -111,7 +93,7 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 | 05  | O projeto precisa necessariamente ser de fácil entendimento para todos os tipos de usuários. |
 | 06  | O projeto deve cumprir com excelência todos os requisitos de cada sprint.                  |
 | 07  | As entregas intermediárias devem ser revisadas e validadas por todas as partes interessadas antes de avançar para a próxima fase. |
-| 08  | As atualizações e revisões no escopo devem ser aprovadas por todos os stakeholders antes de serem implementadas. |
+| 08  | As atualizações e revisões no escopo devem ser aprovadas por todos os desenvolvedores antes de serem implementadas. |
 | 09  | A documentação do projeto deve ser atualizada e mantida em todas as fases de desenvolvimento. |
 | 10  | O código-fonte deve ser versionado adequadamente e estar disponível em repositórios acessíveis para a equipe. |
 | 11  | O projeto deve atender a todas as métricas de qualidade acordadas, incluindo desempenho e segurança. |
