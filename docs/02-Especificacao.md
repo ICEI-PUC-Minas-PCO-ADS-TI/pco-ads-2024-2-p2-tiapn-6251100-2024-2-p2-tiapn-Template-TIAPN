@@ -101,13 +101,5 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 
 ## Diagrama de casos de uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos. Ele utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. O diagrama contempla a fronteira do sistema e o detalhamento dos requisitos funcionais, com a indicação dos atores, casos de uso e seus relacionamentos.
-
-As referências abaixo irão auxiliá-lo na geração do artefato “diagrama de casos de uso”.
-
-> **Links úteis**:
-> - [Criando casos de uso](https://www.ibm.com/docs/pt-br/engineering-lifecycle-management-suite/design-rhapsody/10.0?topic=cases-creating-use)
-> - [Como criar diagrama de caso de uso: tutorial passo a passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+A imagem  ilustra o diagrama de caso de uso da plataforma DoaSô, demonstrando as principais interações entre os usuários (Doadores e Centros de Doações) e o sistema. O diagrama evidencia funcionalidades cruciais, tais como o cadastro de usuários, envio de propostas de doação, bem como a aceitação ou recusa dessas propostas pelos centros de doação. Ademais, destaca-se a possibilidade de  visualização dos centros mais próximos através de um mapa interativo, e a comunicação direta entre doadores e centros por meio de chat, assegurando um processo de doação eficiente, transparente e acessível.
+![Diagrama de casos de uso](images/diagrama_caso_de_uso.png.png)
