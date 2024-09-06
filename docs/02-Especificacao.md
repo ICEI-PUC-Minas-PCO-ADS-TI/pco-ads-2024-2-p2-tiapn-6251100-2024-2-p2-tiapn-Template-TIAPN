@@ -102,7 +102,7 @@ Lembre-se de que cada requisito deve corresponder a uma e somente uma caracterí
 
 O projeto está restrito aos itens apresentados na tabela a seguir.
 
-| ID  Restrição                                                                                  |
+| ID  | Restrição                                                                                  |
 |-----|--------------------------------------------------------------------------------------------|
 | 01  | O projeto deve seguir os prazos de entrega estipulados para cada sprint.                   |
 | 02  | O projeto precisa necessariamente ser intuitivo para todas as idades diante de níveis tecnológicos. |
@@ -111,10 +111,11 @@ O projeto está restrito aos itens apresentados na tabela a seguir.
 | 05  | O projeto precisa necessariamente ser de fácil entendimento para todos os tipos de usuários. |
 | 06  | O projeto deve cumprir com excelência todos os requisitos de cada sprint.                  |
 | 07  | As entregas intermediárias devem ser revisadas e validadas por todas as partes interessadas antes de avançar para a próxima fase. |
-| 08  | As atualizações e revisões no escopo devem ser aprovadas por todos os desenvolvedores antes de serem implementadas. |
+| 08  | As atualizações e revisões no escopo devem ser aprovadas por todos os stakeholders antes de serem implementadas. |
 | 09  | A documentação do projeto deve ser atualizada e mantida em todas as fases de desenvolvimento. |
 | 10  | O código-fonte deve ser versionado adequadamente e estar disponível em repositórios acessíveis para a equipe. |
 | 11  | O projeto deve atender a todas as métricas de qualidade acordadas, incluindo desempenho e segurança. |
+
 
 ## Diagrama de casos de uso
 
