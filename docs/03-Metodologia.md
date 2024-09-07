@@ -3,7 +3,19 @@
 
 <span style="color:red">Pré-requisitos: <a href="02-Especificacao.md"> Especificação do projeto</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para abordar o problema. Inclua definições sobre os ambientes de trabalho utilizados pela equipe para desenvolver o projeto. Isso abrange a relação dos ambientes utilizados, a estrutura para a gestão do código-fonte, além da definição do processo e das ferramentas por meio dos quais a equipe se organiza (gestão de equipes).
+A equipe adotou a metodologia ScrumBan, que combina elementos do Scrum e Kanban, focando na organização de tarefas, flexibilidade e agilidade dos processos. O ScrumBan une a estrutura organizada do Scrum com o fluxo contínuo e a visualização do Kanban, proporcionando o melhor de ambos os métodos.
+
+Alguns motivos que levaram a equipe a optar por essa metodologia incluem:
+
+* Combina as vantagens do Scrum e Kanban.
+* Facilita entregas contínuas e incrementais.
+* Utiliza quadros Kanban para monitorar o fluxo de trabalho.
+* As tarefas são priorizadas, garantindo foco nas mais importantes.
+* Oferece flexibilidade, permitindo ajustes conforme as necessidades do projeto.
+* Enfatiza a conclusão rápida de tarefas.
+* Promove a melhoria contínua, incentivando a equipe a otimizar processos constantemente.
+
+Durante o projeto, todos os membros participaram das etapas de design thinking, incluindo as fases de entendimento e exploração, onde foram propostas diversas ideias sobre funcionalidades e elementos do site, da fase de contextualização do projeto e das ferramentas a serem utilizadas. A implementação e documentação dessas ideias foram divididas em seções, permitindo que cada integrante escolhesse a área que gostaria de desenvolver. Para isso, a equipe utilizou o Miro (Encontrado no arquivo <li><a href="01.1-ContextualizacaoMiro.md"> Documentação do Miro</a></li>) para organizar as ideias visualmente, o Trello para gerenciar e distribuir as tarefas na sprint 01 e o GitHub Projects a partir da sprint 02 para a mesma função do Trello.
 
 ## Relação de ambientes de trabalho
 
@@ -42,11 +54,11 @@ Quanto à gerência de issues, o projeto adota a seguinte convenção para etiqu
 - Testes: Victor Schneider.
 - Documentação: Thiago Moreira, Guilherme Souza, Wendell Leonardo,  Igor Maia e Gabriel Madureira.
 
-#### Sprint 2
+<!-- #### Sprint 2
 - _Scrum master_: AlunaY
 - Desenvolvedor _front-end_: AlunoX
 - Desenvolvedor _back-end_: AlunoK
-- Testes: AlunaZ
+- Testes: AlunaZ -->
 
 ###  Quadro de tarefas
 
@@ -74,7 +86,7 @@ Atualizado em: 06/09/2024
 | Victor Schneider | Quadro de tarefas           | 26/08/2024 | 06/09/2024 | ✔️    | 06/09/2024  |
 | Wendell Leonardo | Mapa de Stakeholders        | 26/08/2024 | 06/09/2024 | 📝    | 06/09/2024  |
 
-#### Sprint 2
+<!-- #### Sprint 2
 
 Atualizado em: 21/04/2024
 
@@ -83,7 +95,7 @@ Atualizado em: 21/04/2024
 | AlunaX        | Página inicial   | 01/02/2024     | 07/03/2024 | ✔️    | 05/02/2024      |
 | AlunaZ        | CSS unificado    | 03/02/2024     | 10/03/2024 | 📝    |                 |
 | AlunoY        | Página de login  | 01/02/2024     | 07/03/2024 | ⌛     |                 |
-| AlunoK        | Script de login  |  01/01/2024    | 12/03/2024 | ❌    |       |
+| AlunoK        | Script de login  |  01/01/2024    | 12/03/2024 | ❌    |       | -->
 
 
 Legenda:

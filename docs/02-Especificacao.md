@@ -80,6 +80,12 @@ As tabelas a seguir apresentam os requisitos funcionais e não funcionais que de
 |RF-016| Permitir que os doadores deixem comentários sobre os parceiros, ajudando a manter a qualidade dos serviços oferecidos	|MÉDIA|
 |RF-017| Fornecer uma funcionalidade para os doadores avaliarem os parceiros com base na experiência de doação	|MÉDIA|
 |RF-018| Permitir que doadores enviem fotos das doações diretamente no chat com os parceiros, facilitando a comunicação e verificação do estado dos itens doados	|ALTA|
+|RF-019| Permitir que o parceiro consiga publicar, editar e excluir suas metas virtuais	|ALTA|
+|RF-020| Permitir que o usuário consiga criar, editar e excluir seu perfil	|ALTA|
+|RF-021| O sistema deve emitir relatórios sobre as doações recebidas pelo parceiro e relatórios sobre doações feitas pelo usuário	|BAIXA|
+|RF-022| Permitir que o parceiro consiga destacar/turbinar sua meta por meio de pagamento	|ALTA|
+|RF-023| Oferecer a opção de filtrar as metas baseado em localidade, tipo, e data	|MÉDIA|
+
 
 ### Requisitos não funcionais
 
