@@ -35,6 +35,9 @@ Fernanda é uma jovem de 25 anos, estudante de biologia e estagiária em um labo
 
 Pedro, com 45 anos, é gerente de projetos em uma empresa de tecnologia. Ele é organizado, gosta de ter controle sobre o que faz, e valoriza a segurança em todos os processos. Pedro quer doar objetos que não usa mais, mas se sente desconfiado quanto à transparência das instituições e a logística de entrega. Ele é metódico, acessa o site principalmente pelo laptop ou tablet e busca soluções que tragam garantias claras. O site de doações pode proporcionar a ele segurança e confiança ao fornecer informações detalhadas sobre o destino dos itens doados, assim como uma logística bem estruturada para facilitar o processo. Pedro ficará satisfeito com uma interface que ofereça transparência e acompanhamento das doações.
 
+## Proposta de valor
+
+
 ## Histórias de usuários
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
