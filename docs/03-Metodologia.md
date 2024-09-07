@@ -67,7 +67,7 @@ Atualizado em: 06/09/2024
 | Luis Sampaio     | Restrições do projeto       | 26/08/2024 | 06/09/2024 | ✔️    | 30/08/2024  |
 | Luis Sampaio     | User Flow                   | 26/08/2024 | 06/09/2024 | 📝    | 30/08/2024  |
 | Thiago Moreira   | Priorização de ideias       | 26/08/2024 | 06/09/2024 | ⌛    | 06/09/2024  |
-| Thiago Moreira   | Mural de Possibiliades      | 26/08/2024 | 06/09/2024 | ✔️    | 06/09/2024  |
+| Thiago Moreira   | Mural de Possibilidades      | 26/08/2024 | 06/09/2024 | ✔️    | 06/09/2024  |
 | Vitor Prates     | Introdução                  | 26/08/2024 | 06/09/2024 | 📝    | 04/09/2024  |
 | Vitor Prates     | Wireframes Baixa fidelidade | 26/08/2024 | 06/09/2024 | 📝    | 05/09/2024  |
 | Victor Schneider | Diagrama Casos de uso       | 26/08/2024 | 06/09/2024 | ✔️    | 06/09/2024  |
