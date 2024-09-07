@@ -12,9 +12,11 @@ Durante a fase de compreensão do problema, identificamos as seguintes personas:
 | João Almeida | Idade | Profissão | Frustrações | Hobbies|
 | ---- | :-----: | :---------:| :-----------:| :-----------------: |
 |![J_Almeida](https://github.com/user-attachments/assets/f41cb363-ef1e-4c6d-a564-96e7caa2730d) |32 anos | Analista de Suporte Técnico|Desconhecimento de onde doar<br/><br/>Falta de tempo em sua rotina| Ciclismo<br/><br/>Jogar Videogames|
+
 | Fernanda Costa | Idade | Profissão | Frustrações | Hobbies|
 | ---- | :-----: | :---------:| :-----------:| :-----------------: |
 |![Fer](https://github.com/user-attachments/assets/dc34d87b-0af6-4c99-954c-979196fea4a0)| 25 anos | Estudante de Biologia<br/><br/> Estagiária de Laboratório|Falta de clareza sobre o que doar| Fazer trilhas<br/><br/>Cozinhar|
+
 | Pedro Nunes | Idade | Profissão | Frustrações | Hobbies|
 | ---- | :-----: | :---------:| :-----------:| :-----------------: |
 |![nunes](https://github.com/user-attachments/assets/0d80c07d-7289-4544-b102-2203e9f07a29)| 45 anos | Gerente de projetos|Falta de confiança nas instituições<br/><br/>Acúmulo de objetos em casa| Apreciador de filmes clássicos<br/><br/>Fotografia|
