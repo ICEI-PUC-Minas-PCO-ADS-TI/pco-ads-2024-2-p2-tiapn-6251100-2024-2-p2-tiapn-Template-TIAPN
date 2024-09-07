@@ -11,15 +11,15 @@ Durante a fase de compreensão do problema, identificamos as seguintes personas:
 
 | João Almeida | Idade | Profissão | Frustrações | Hobbies|
 | ---- | :-----: | :---------:| :-----------:| :-----------------: |
-| ![image](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-1-tiaw-uaijobs/assets/164440525/1b69084e-81cd-4759-ad76-4b099084db73)| 32 anos | Analista de Suporte Técnico|Desconhecimento de onde doar<br/><br/>Falta de tempo em sua rotina| Ciclismo<br/><br/>Jogar Videogames|
+|![J_Almeida](https://github.com/user-attachments/assets/f41cb363-ef1e-4c6d-a564-96e7caa2730d) |32 anos | Analista de Suporte Técnico|Desconhecimento de onde doar<br/><br/>Falta de tempo em sua rotina| Ciclismo<br/><br/>Jogar Videogames|
 
 | Fernanda Costa | Idade | Profissão | Frustrações | Hobbies|
 | ---- | :-----: | :---------:| :-----------:| :-----------------: |
-| ![image](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-1-tiaw-uaijobs/assets/164440525/1b69084e-81cd-4759-ad76-4b099084db73)| 25 anos | Estudante de Biologia<br/><br/> Estagiária de Laboratório|Falta de clareza sobre o que doar| Fazer trilhas<br/><br/>Cozinhar|
+|![Fer](https://github.com/user-attachments/assets/dc34d87b-0af6-4c99-954c-979196fea4a0)| 25 anos | Estudante de Biologia<br/><br/> Estagiária de Laboratório|Falta de clareza sobre o que doar| Fazer trilhas<br/><br/>Cozinhar|
 
 | Pedro Nunes | Idade | Profissão | Frustrações | Hobbies|
 | ---- | :-----: | :---------:| :-----------:| :-----------------: |
-| ![image](https://github.com/ICEI-PUC-Minas-PCO-SI/pco-si-2024-1-tiaw-uaijobs/assets/164440525/1b69084e-81cd-4759-ad76-4b099084db73)| 45 anos | Gerente de projetos|Falta de confiança nas instituições<br/><br/>Acúmulo de objetos em casa| Apreciador de filmes clássicos<br/><br/>Fotografia|
+|![nunes](https://github.com/user-attachments/assets/0d80c07d-7289-4544-b102-2203e9f07a29)| 45 anos | Gerente de projetos|Falta de confiança nas instituições<br/><br/>Acúmulo de objetos em casa| Apreciador de filmes clássicos<br/><br/>Fotografia|
 
 Um pouco sobre as personas:
 
@@ -38,14 +38,20 @@ Pedro, com 45 anos, é gerente de projetos em uma empresa de tecnologia. Ele é 
 ## Histórias de usuários
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
 
-| `EU`            | `QUERO/PRECISO`                       | `PARA`                                    |
-|--------------------|------------------------------------|-------------------------------------------|
-| João Almeida       | Visualizar locais de doação         | Ter conhecimento de locais de entrega     |
-| João Almeida       | Uma plataforma rápida e simples     | Doar itens acumulados sem complicação     |
-| Fernanda Costa     | Saber o impacto das minhas doações  | Garantir que estou ajudando de forma útil |
-| Fernanda Costa     | Uma lista de itens necessários      | Doar algo que realmente seja útil         |
-| Pedro Nunes      | Saber da qualidade do local de doação | Doar com confiança e transparência        |
-| Pedro Nunes        | Uma logística simplificada          | Evitar complicações ao entregar doações   |
+| EU                | QUERO/PRECISO                                      | PARA                                          |
+|-------------------|---------------------------------------------------|----------------------------------------------|
+| João Almeida       | Visualizar locais de doação                        | Ter conhecimento de locais de entrega        |
+| João Almeida       | Uma plataforma rápida e simples                    | Doar itens acumulados sem complicação        |
+| João Almeida       | Receber notificações sobre novos locais de doação  | Saber de novas oportunidades sem buscar      |
+| João Almeida       | Acessar um mapa interativo com locais próximos     | Escolher o local de doação mais conveniente  |
+| Fernanda Costa     | Saber o impacto das minhas doações                 | Garantir que estou ajudando de forma útil    |
+| Fernanda Costa     | Uma lista de itens necessários                     | Doar algo que realmente seja útil            |
+| Fernanda Costa     | Deixar comentários e avaliações dos locais de doação| Compartilhar minha experiência com outros    |
+| Pedro Nunes        | Saber da qualidade do local de doação              | Doar com confiança e transparência           |
+| Pedro Nunes        | Uma logística simplificada                        | Evitar complicações ao entregar doações      |
+| Pedro Nunes        | Verificar a reputação e avaliações dos parceiros   | Garantir que a doação vai para instituição séria |
+| Pedro Nunes        | Manter um registro de todas as doações feitas      | Acompanhar o histórico e entender rejeições  |
+
 
 ## Requisitos
 
