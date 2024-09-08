@@ -1,46 +1,33 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+O projeto DoaSô surge em resposta à crescente necessidade de práticas que unam responsabilidade social e sustentabilidade, conforme preconizado pelos Objetivos de Desenvolvimento Sustentável (ODS) das Nações Unidas. Em particular, o DoaSô alinha-se aos ODS 12: Consumo e Produção Responsáveis e ODS 10: Redução das Desigualdades, propondo-se como uma plataforma digital que facilita a doação de itens, conectando doadores e beneficiários de forma organizada e segura. O nome “DoaSô” combina o termo "doar" com a expressão mineira "uai sô", refletindo a simplicidade e o espírito comunitário que norteiam a iniciativa.
 
 ## Problema
-Aqui, a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.
-
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-O grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite uma visão completa do problema.
-
-> **Links úteis**:
-> - [Objetivos, problema de pesquisa e justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz certezas, suposições e dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O DoaSô foi concebido para enfrentar um desafio significativo na sociedade atual: a ausência de uma plataforma eficiente que conecte, de maneira fácil, aqueles que possuem itens em boas condições e desejam doá-los, com aqueles que necessitam desses recursos. Muitas vezes, bens que poderiam ser reutilizados acabam sendo descartados, enquanto diversas instituições e pessoas carecem de apoio material. Esta falta de intermediação eficaz entre doadores e beneficiários não apenas perpetua o desperdício de recursos como também amplia as desigualdades sociais.
 
 ## Objetivos
 
-Aqui, você deve descrever os objetivos do trabalho, indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima.
+O objetivo principal do DoaSô é proporcionar uma solução tecnológica que simplifique o processo de doação, conectando de maneira eficiente doadores e beneficiários. Além disso, a plataforma busca promover práticas sustentáveis, incentivando a reutilização de itens que, de outra forma, seriam descartados, e assim contribuindo para a redução do desperdício (ODS 12). Especificamente, a plataforma visa:
 
-Além disso, apresente alguns (pelo menos 3) objetivos específicos, dependendo de onde você pretende concentrar sua prática investigativa ou como deseja aprofundar seu trabalho.
- 
-> **Links úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+- Criar um ambiente seguro e acessível para o cadastro de parceiros e voluntários.
+- Facilitar a localização e visualização de pontos de doação, proporcionando transparência e acessibilidade.
+- Implementar ferramentas avançadas de busca e filtragem, melhorando a experiência do usuário.
+- Estabelecer um sistema de feedback e avaliações para assegurar a qualidade e confiabilidade das doações.
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O desenvolvimento do DoaSô justifica-se pela necessidade urgente de soluções que combinem tecnologia e solidariedade para enfrentar os desafios sociais e ambientais do mundo atual. De acordo com dados recentes do IBGE, 31,6% da população brasileira vive na linha da pobreza e 5,9% na extrema pobreza (IBGE, 2023). Essa realidade reforça a necessidade de iniciativas que conectem doadores e beneficiários, promovendo o consumo responsável e a redução das desigualdades.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+O relatório Fios da Moda, divulgado pelo instituto Modefica em parceria com a Fundação Getúlio Vargas (FGV), mostrou que, em 2018, foram produzidas cerca de 9 bilhões de peças de roupa no Brasil, representando mais de 40 unidades por habitante. Além disso, 56,8% das pessoas estariam dispostas a reciclar suas peças de roupas se soubessem que elas realmente seriam recicladas, enquanto 49,9% nunca ouviram falar sobre reciclagem de roupas no Brasil (Modefica, 2021).
 
-> **Links úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+O DoaSô visa enfrentar esses problemas, incentivando a reutilização/doação de roupas e itens não perecíveis, promovendo a redistribuição de recursos entre os que mais precisam. Desta forma, a plataforma alinha-se aos Objetivos de Desenvolvimento Sustentável (ODS) 10 (Redução das Desigualdades) e ODS 12 (Consumo e Produção Responsáveis), promovendo práticas sustentáveis e inclusivas.
 
 ## Público-alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O DoaSô destina-se a um público diversificado, composto por:
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+- Indivíduos e Famílias: Pessoas interessadas em doar itens em boas condições, contribuindo para a redistribuição de recursos e assistência aos mais necessitados.
+- Organizações e Instituições: Entidades que dependem de doações para sustentar suas operações e apoiar suas comunidades, como ONGs, abrigos e instituições de caridade.
+- Voluntários: Cidadãos dispostos a colaborar no processo de doação, facilitando a conexão entre doadores e beneficiários de maneira eficiente e segura.
 
-> **Links úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público-alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+Ademais, a plataforma também é dirigida a indivíduos e organizações que valorizam a sustentabilidade e procuram maneiras de reduzir o desperdício, contribuindo assim para uma sociedade mais justa e equilibrada.
