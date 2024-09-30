@@ -1,11 +1,5 @@
 # Modelagem dos processos de negócio
 
-<span style="color:red">Pré-requisitos: <a href="02-Especificacao.md"> Especificação do projeto</a></span>
-
-> **Links úteis**:
-> - [Modelagem de processos AS-IS x TO-BE](https://dheka.com.br/modelagem-as-is-to-be/)
-> - [20 dicas práticas de modelagem de processos](https://dheka.com.br/20-dicas-praticas-de-modelagem-de-processos/)
-
 ## Modelagem da situação atual (Modelagem AS IS)
 
 Apresente uma descrição textual de como os sistemas atuais resolvem o problema que seu projeto se propõe a resolver. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional.
@@ -14,30 +8,32 @@ Com o tema do projeto definido, escolham alguns processos no contexto de negóci
 
 ## Descrição geral da proposta (Modelagem TO BE)
 
-Tendo identificado os gargalos dos modelos AS-IS, apresentem uma descrição da proposta de solução, buscando maior eficiência com a introdução da tecnologia. Abordem também os limites dessa solução e seu alinhamento com as estratégias e objetivos do contexto de negócio escolhido.
+Após a criação e identificação de gargalos e complicações nos modelos AS-IS, a equipe desenvolveu melhorias significativas no processo de metas e no processo de coletas de doações, substituindo o processo manual e demorado de contato com potenciais doadores pelas ferramentas oferecidas pelo site DoaSô.
 
-Cole aqui os modelos da solução proposta (modelo TO-BE), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina. Cada processo identificado deve ter seu modelo TO-BE específico. Descrevam as oportunidades de melhoria de cada processo da solução proposta.
+**COLE AQUI A MODELAGEM TO BE DOS PROCESSOS DE COLETA E DE METAS A SEGUIR:
+Cole aqui os modelos da solução proposta (modelo TO-BE), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina. Cada processo identificado deve ter seu modelo TO-BE específico. Descrevam as oportunidades de melhoria de cada processo da solução proposta.**
 
-Apresente aqui uma descrição da sua proposta, abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente também as oportunidades de melhoria.
+A equipe propõe substituir os processos manuais pela plataforma DoaSô, assim economizando esforço e tempo para Delvis Modas. A instituição pode, por exemplo, visualizar os itens a serem doados sem ter a necessidade de tanto o doador quanto o a instituição se encontrarem. O doador também pode enviar a proposta previamente pela plataforma e não terá a obrigação de entrar em contato com ligações, podendo aguardar o feedback pela própria plataforma. Nosso objetivo é simplificar processos demorados e eliminar processos manuais desnecessários, utilizando a técnologia.
 
 ## Modelagem dos processos
 
-[PROCESSO 1 - Nome do processo](./processes/processo-1-nome-do-processo.md "Detalhamento do processo 1.")
+[PROCESSO 1 - Determinar Metas de Doações](./processes/processo-1-nome-do-processo.md "Detalhamento do processo 1.")
 
-[PROCESSO 2 - Nome do processo](./processes/processo-2-nome-do-processo.md "Detalhamento do processo 2.")
+[PROCESSO 2 - Coletar Doações](./processes/processo-2-nome-do-processo.md "Detalhamento do processo 2.")
 
 
 ## Indicadores de desempenho
 
-Apresente aqui os principais indicadores de desempenho e algumas metas para o processo. Atenção: as informações necessárias para gerar os indicadores devem estar contempladas no diagrama de classe. Coloque no mínimo 5 indicadores.
-
-Use o seguinte modelo:
+Desenvolvemos aqui os 5 principais indicadores de desempenho e metas para os processos. Estes são:
 
 | **Indicador** | **Objetivos** | **Descrição** | **Fonte de dados** | **Fórmula de cálculo** |
 | ---           | ---           | ---           | ---             | ---             |
-| Percentual de reclamações | Avaliar quantitativamente as reclamações | Percentual de reclamações em relação ao total de atendimentos | Tabela Reclamações | número total de reclamações / número total de atendimentos |
-| Taxa de requisições atendidas | Melhorar a prestação de serviços medindo a porcentagem de requisições atendidas| Mede a % de requisições atendidas na semana | Tabela Solicitações | (número de requisições atendidas / número total de requisições) * 100 |
-| Taxa de entrega de material | Manter controle sobre os materiais que estão sendo entregues | Mede % de material entregue dentro do mês | Tabela Pedidos | (número de pedidos entregues / número total de pedidos) * 100 |
+| Percentual de doações aceitas | Avaliar a eficiência | Percentual de doações em bom estado para serem repassadas | Tabela de doações | número total de doações propostas / número total de doações aceitas |
+| Taxa de crescimento de doações | Monitorar o crescimento | Percentual de aumento ou diminuição das doações ao longo do tempo | Relatórios mensais de doações | (doações no período atual - doações no período anterior) / doações no período anterior |
+| Tempo médio de processamento | Melhorar a eficiência operacional | Tempo médio entre a recepção da doação e sua distribuição | Sistema de gestão de doações | soma do tempo de processamento de todas as doações / número total de doações |
+| Satisfação dos doadores | Avaliar a satisfação | Percentual de doadores satisfeitos com o processo de doação | Pesquisas de satisfação | número de doadores satisfeitos / número total de doadores pesquisados |
+| Custo por doação processada | Controlar custos | Custo médio para processar cada doação | Relatórios financeiros | custo total de processamento / número total de doações processadas |
+| Taxa de retenção de doadores | Avaliar a fidelização | Percentual de doadores que fazem mais de uma doação | Banco de dados de doadores | número de doadores recorrentes / número total de doadores |
 
 
-Obs.: todas as informações necessárias para gerar os indicadores devem estar no diagrama de classe a ser apresentado posteriormente.
+Obs.: todas as informações serão utilizadas no diagrama de classe a ser apresentado posteriormente.
