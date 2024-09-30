@@ -8,12 +8,14 @@ Com o tema do projeto definido, escolham alguns processos no contexto de negóci
 
 ## Descrição geral da proposta (Modelagem TO BE)
 
-Após a criação e identificação de gargalos e complicações nos modelos AS-IS, a equipe desenvolveu melhorias significativas no processo de metas e no processo de coletas de doações, substituindo o processo manual e demorado de contato com potenciais doadores pelas ferramentas oferecidas pelo site DoaSô.
+Após identificar gargalos e complicações nos modelos AS-IS, a equipe implementou melhorias significativas nos processos de definição de metas e coleta de doações. O processo manual e demorado de contato com potenciais doadores foi substituído pelas ferramentas oferecidas pela plataforma DoaSô.
 
 **COLE AQUI A MODELAGEM TO BE DOS PROCESSOS DE COLETA E DE METAS A SEGUIR:
 Cole aqui os modelos da solução proposta (modelo TO-BE), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina. Cada processo identificado deve ter seu modelo TO-BE específico. Descrevam as oportunidades de melhoria de cada processo da solução proposta.**
 
-A equipe propõe substituir os processos manuais pela plataforma DoaSô, assim economizando esforço e tempo para Delvis Modas. A instituição pode, por exemplo, visualizar os itens a serem doados sem ter a necessidade de tanto o doador quanto o a instituição se encontrarem. O doador também pode enviar a proposta previamente pela plataforma e não terá a obrigação de entrar em contato com ligações, podendo aguardar o feedback pela própria plataforma. Nosso objetivo é simplificar processos demorados e eliminar processos manuais desnecessários, utilizando a técnologia.
+A equipe propõe substituir os processos manuais pela plataforma DoaSô, economizando esforço e tempo para a Delvis Modas. Com a DoaSô, a instituição pode visualizar os itens a serem doados sem a necessidade de encontros presenciais entre doadores e a instituição. Além disso, os doadores podem enviar suas propostas previamente pela plataforma, eliminando a necessidade de ligações telefônicas e permitindo que aguardem o feedback diretamente na plataforma.
+
+Nosso objetivo é simplificar processos demorados e eliminar tarefas manuais desnecessárias, utilizando a tecnologia para tornar o processo de doação mais eficiente e conveniente para todos os envolvidos.
 
 ## Modelagem dos processos
 
