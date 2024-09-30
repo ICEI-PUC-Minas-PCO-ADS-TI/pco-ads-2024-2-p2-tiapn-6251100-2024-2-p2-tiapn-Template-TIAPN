@@ -2,10 +2,33 @@
 
 ## Modelagem da situação atual (Modelagem AS IS)
 
-Apresente uma descrição textual de como os sistemas atuais resolvem o problema que seu projeto se propõe a resolver. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional.
+Atualmente, os processos de coleta de doações são realizados de maneira manual, o que gera diversas ineficiências e retrabalho. Esses processos envolvem muitas idas e vindas, principalmente em situações onde o contato com doadores é feito de forma direta e sem o auxílio de sistemas automatizados. Isso resulta em uma grande dependência de interações pessoais e deslocamentos repetitivos, o que pode gerar perda de tempo e esforço para todos os envolvidos.
 
-Com o tema do projeto definido, escolham alguns processos no contexto de negócios. Para ilustrar os potenciais ganhos com a automatização, imaginem processos manuais, ineficientes e/ou com muitas idas e vindas, gerando, assim, retrabalho. Colem aqui os modelos dos processos atuais (modelo AS-IS), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina.
+No cenário atual, para exemplificar essas ineficiências, foram selecionados dois processos principais no contexto de negócios da Deixis Confecção e Deixis Modas:
 
+**Processo de Coleta de Doações de Roupas**
+Atualmente, o processo de coleta de roupas funciona assim:
+
+A empresa ou indivíduo responsável pelas doações é contatado por amigos ou conhecidos que desejam contribuir.
+Em seguida, um encontro é agendado para que seja possível ir até a residência do doador, onde as doações são coletadas manualmente.
+Após a coleta, os itens são levados até a loja, onde são verificados para avaliar se estão em boas condições. Caso estejam, são armazenados. Caso contrário, precisam ser consertados e limpos, o que exige tempo e esforço.
+Se o conserto for possível, os itens são armazenados. Caso contrário, são descartados.
+Este processo atual depende totalmente de contatos manuais e repetitivos, além de exigir esforço físico para transporte e reparo dos itens, o que poderia ser otimizado com uma solução automatizada.
+
+Modelo AS IS - Coleta
+(Imagem Coleta)
+
+**Processo de Coleta de Doações de Moedas**
+Da mesma forma, o processo de doações de moedas segue uma rotina manual. Esse processo começa com a definição de uma meta de doação e segue os seguintes passos:
+
+Primeiramente, o responsável liga para amigos e conhecidos, perguntando se possuem doações que possam atender à meta.
+Caso positivo, uma visita é agendada para buscar as doações na casa da pessoa. Caso contrário, o processo volta à estaca zero, com novas ligações sendo feitas.
+Após coletar as doações, o responsável retorna à loja, onde os itens são avaliados para verificar se atendem às necessidades e se estão em boas condições.
+Caso estejam, são armazenados. Caso contrário, são reparados ou descartados, caso o conserto não seja possível.
+Esse processo também envolve muitas etapas manuais, ligações e verificações físicas que poderiam ser otimizadas por meio de automação.
+
+Modelo AS IS - Meta
+(Imagem Meta)
 ## Descrição geral da proposta (Modelagem TO BE)
 
 Após identificar gargalos e complicações nos modelos AS-IS, a equipe implementou melhorias significativas nos processos de definição de metas e coleta de doações. O processo manual e demorado de contato com potenciais doadores foi substituído pelas ferramentas oferecidas pela plataforma DoaSô.
