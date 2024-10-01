@@ -17,49 +17,48 @@ _* **Data e Hora** - Combinar encontro com o doador_
 _* **Imagem** - Enviar imagens no chat para aprovação da doação_
 
 
-**Chat entre o doador e o parceiro**
+## **Chat entre o doador e o parceiro**
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-| Chat entre o doador e o parceiro | Texto  | Deve oferecer proposta de doação | null |
+| **Campo**                         | **Tipo** | **Restrições**                     | **Valor default** |
+| --------------------------------- | -------- | ---------------------------------- | ----------------- |
+| Chat entre o doador e o parceiro   | Texto    | Deve oferecer proposta de doação   | null              |
 
-| **Comandos**         |  **Destino**                   | **Tipo** |
-| ---                  | ---                            | ---               |
-| Enviar mensagem | Verificar imagem das doações | (Mensagem) |
+| **Comandos**     | **Destino**                | **Tipo**     |
+| ---------------- | -------------------------- | ------------ |
+| Enviar mensagem  | Verificar imagem das doações | (Mensagem)   |
 
+---
 
-**Feedbacks de rejeição**
+## **Feedbacks de rejeição**
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-|Motivo da rejeição | Texto  | A proposta deve ser negada | null |
-|                 |                  |                |                   |
+| **Campo**         | **Tipo** | **Restrições**               | **Valor default** |
+| ----------------- | -------- | ---------------------------- | ----------------- |
+| Motivo da rejeição | Texto    | A proposta deve ser negada    | null              |
 
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| Enviar feedback | Receber feedback  | (Mensagem) |
-|                      |                                |                   |
+| **Comandos**     | **Destino**         | **Tipo**     |
+| ---------------- | ------------------- | ------------ |
+| Enviar feedback  | Receber feedback     | (Mensagem)   |
 
-**Combinar encontro com o doador**
+---
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-|Combinar encontro com o doador| Data e hora  | A proposta deve ser aceita | null |
-|                 |                  |                |                   |
+## **Combinar encontro com o doador**
 
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| Agendar hora | Levar ou receber doações  | (Date) |
-|                      |                                |                   |
+| **Campo**                       | **Tipo**     | **Restrições**            | **Valor default** |
+| ------------------------------- | ------------ | ------------------------- | ----------------- |
+| Combinar encontro com o doador   | Data e hora  | A proposta deve ser aceita | null              |
 
-**Enviar imagens no chat para aprovação da doação**
+| **Comandos**     | **Destino**               | **Tipo**     |
+| ---------------- | ------------------------- | ------------ |
+| Agendar hora     | Levar ou receber doações   | (Date)       |
 
-| **Campo**       | **Tipo**         | **Restrições** | **Valor default** |
-| ---             | ---              | ---            | ---               |
-|Enviar porposta de doação com imagens| Imagem  | Deve haver proposta | null |
-|                 |                  |                |                   |
+---
 
-| **Comandos**         |  **Destino**                   | **Tipo**          |
-| ---                  | ---                            | ---               |
-| Entrar em contato com o parceiro | Verificar imagens das doações  | (Imagem) |
-|                      |                                |                   |
+## **Enviar imagens no chat para aprovação da doação**
+
+| **Campo**                                 | **Tipo** | **Restrições**         | **Valor default** |
+| ----------------------------------------- | -------- | ---------------------- | ----------------- |
+| Enviar proposta de doação com imagens     | Imagem   | Deve haver proposta    | null              |
+
+| **Comandos**     | **Destino**                 | **Tipo**     |
+| ---------------- | --------------------------- | ------------ |
+| Entrar em contato com o parceiro | Verificar imagens das doações | (Imagem)     |
