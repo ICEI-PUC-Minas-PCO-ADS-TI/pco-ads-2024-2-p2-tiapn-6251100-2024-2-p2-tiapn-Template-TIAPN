@@ -142,6 +142,6 @@ Exemplo: os artefatos do projeto são desenvolvidos a partir de diversas platafo
 | Repositório de código fonte         | GitHub                             | https://github.com/ICEI-PUC-Minas-PCO-ADS-TI/2024-2-p2-tiapn-doaso                            |
 | Documentos do projeto               | GitHub                             | https://docs.google.com/document/d/1Xn5zD_GoZHLqoypVicsPDXxWhgpDhh4J4mkz1Q7JHiY/edit?usp=sharing                            |
 | Projeto de interface                | Figma                              | http://....                            |
-| Gerenciamento do projeto            | GitHub Projects                    | http://....                            |
+| Gerenciamento do projeto            | GitHub Projects                    | [ http://....](https://github.com/orgs/ICEI-PUC-Minas-PCO-ADS-TI/projects/8/views/1)                            |
 | Hospedagem                          | Vercel                             | http://....                            |
  
