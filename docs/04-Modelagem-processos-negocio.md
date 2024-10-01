@@ -34,8 +34,13 @@ Modelo AS IS - Meta
 
 Após identificar gargalos e complicações nos modelos AS-IS, a equipe implementou melhorias significativas nos processos de definição de metas e coleta de doações. O processo manual e demorado de contato com potenciais doadores foi substituído pelas ferramentas oferecidas pela plataforma DoaSô.
 
-**COLE AQUI A MODELAGEM TO BE DOS PROCESSOS DE COLETA E DE METAS A SEGUIR:
-Cole aqui os modelos da solução proposta (modelo TO-BE), elaborados com o apoio da ferramenta baseada em BPMN utilizada na disciplina. Cada processo identificado deve ter seu modelo TO-BE específico. Descrevam as oportunidades de melhoria de cada processo da solução proposta.**
+Modelo AS IS - Coleta
+(Imagem Coleta)
+![ModeloColeta](images/TO%20BE%20-%20Coleta.png)
+
+Modelo AS IS - Meta
+(Imagem Meta)
+![ModeloColeta](images/TO%20BE%20-%20Meta.png)
 
 A equipe propõe substituir os processos manuais pela plataforma DoaSô, economizando esforço e tempo para a Delvis Modas. Com a DoaSô, a instituição pode visualizar os itens a serem doados sem a necessidade de encontros presenciais entre doadores e a instituição. Além disso, os doadores podem enviar suas propostas previamente pela plataforma, eliminando a necessidade de ligações telefônicas e permitindo que aguardem o feedback diretamente na plataforma.
 
