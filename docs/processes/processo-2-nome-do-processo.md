@@ -3,13 +3,10 @@
 _Apresente aqui o nome e as oportunidades de melhoria para o processo 2. 
 Em seguida, apresente o modelo do processo 2, descrito no padrão BPMN._
 
-![Exemplo de um Modelo BPMN do PROCESSO 2](../images/process.png "Modelo BPMN do Processo 2.")
+![Exemplo de um Modelo BPMN do PROCESSO 2](../images/TO%20BE%20-%20Metas.png "Modelo BPMN do Processo 2.")
 
 
 #### Detalhamento das atividades
-
-_Descreva aqui cada uma das propriedades das atividades do processo 2. 
-Devem estar relacionadas com o modelo de processo apresentado anteriormente._
 
 _Os tipos de dados a serem utilizados são:_
 
@@ -19,7 +16,7 @@ _* **Caixa de texto** -feedback da doação(Aprovado/Reprovado)_
 
 _* **Número** - Valor da meta, proposta de doação_
 
-_* **Imagem** - Imagens para analisar as doações a fim de julgar aprovação.
+_* **Imagem** - Imagens para analisar as doações a fim de julgar aprovação_
 
 
 **Criar meta de doação**
@@ -27,6 +24,7 @@ _* **Imagem** - Imagens para analisar as doações a fim de julgar aprovação.
 | **Campo**               | **Tipo** | **Restrições**              | **Valor default** |
 |-------------------------|----------|-----------------------------|-------------------|
 | Meta e pedido de doação | Texto    | Deve oferecer meta da doação | null              |
+|Valor da meta, proposta de doação| Número| Deve ser númerico e maior que 0| 0 |
 
 | **Comandos** | **Destino**                | **Tipo**    |
 |--------------|----------------------------|-------------|
@@ -43,7 +41,6 @@ _* **Imagem** - Imagens para analisar as doações a fim de julgar aprovação.
 | ---                  | ---                            | ---               |
 | Enviar feedback | Receber feedback  | (Mensagem) |
 |                      |                                |                   |
-
 
 **Enviar imagens no chat para aprovação da doação**
 
