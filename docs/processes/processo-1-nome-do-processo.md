@@ -2,7 +2,7 @@
 
 No novo processo proposto (to be), a Parceira Delvis otimiza a coleta de doações ao eliminar a necessidade de recolher itens em más condições para posterior descarte, graças à implementação de um mecanismo de triagem prévia. Além disso, amplia-se o escopo de doadores, não se limitando mais aos contatos pessoais diretos, mas abrangendo um público mais vasto. O fluxo também se torna mais eficiente ao permitir que os doadores realizem a entrega diretamente na loja, reduzindo a dependência de logística própria.
  
-![Exemplo de um Modelo BPMN do PROCESSO 1](../images/TO%20BE%20-%20Coleta.png.png "Modelo BPMN do novo Processo de coletas.")
+![Exemplo de um Modelo BPMN do PROCESSO 1](../images/TO%20BE%20-%20Coleta.png "Modelo BPMN do novo Processo de coletas.")
 
 #### Detalhamento das atividades
 
