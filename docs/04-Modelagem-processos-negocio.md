@@ -15,7 +15,7 @@ Após a coleta, os itens são levados até a loja, onde são verificados para av
 Se o conserto for possível, os itens são armazenados. Caso contrário, são descartados.
 Este processo atual depende totalmente de contatos manuais e repetitivos, além de exigir esforço físico para transporte e reparo dos itens, o que poderia ser otimizado com uma solução automatizada.
 
-Modelo AS IS - Coleta
+Modelo AS IS - Coleta de doações
 ![ModeloColeta](images/AS%20IS%20-%20Coleta.png)
 
 **Processo de Coleta de Doações de Moedas**
@@ -27,20 +27,17 @@ Após coletar as doações, o responsável retorna à loja, onde os itens são a
 Caso estejam, são armazenados. Caso contrário, são reparados ou descartados, caso o conserto não seja possível.
 Esse processo também envolve muitas etapas manuais, ligações e verificações físicas que poderiam ser otimizadas por meio de automação.
 
-Modelo AS IS - Meta
-(Imagem Meta)
+Modelo AS IS - Meta de material
 ![ModeloColeta](images/AS%20IS%20-%20Meta.png)
 ## Descrição geral da proposta (Modelagem TO BE)
 
 Após identificar gargalos e complicações nos modelos AS-IS, a equipe implementou melhorias significativas nos processos de definição de metas e coleta de doações. O processo manual e demorado de contato com potenciais doadores foi substituído pelas ferramentas oferecidas pela plataforma DoaSô.
 
-Modelo AS IS - Coleta
-(Imagem Coleta)
+Modelo AS IS - Coleta de doações
 ![ModeloColeta](images/TO%20BE%20-%20Coleta.png)
 
-Modelo AS IS - Meta
-(Imagem Meta)
-![ModeloColeta](images/TO%20BE%20-%20Meta.png)
+Modelo AS IS - Meta de material
+![ModeloColeta](images/TO%20BE%20-%20Metas.png)
 
 A equipe propõe substituir os processos manuais pela plataforma DoaSô, economizando esforço e tempo para a Delvis Modas. Com a DoaSô, a instituição pode visualizar os itens a serem doados sem a necessidade de encontros presenciais entre doadores e a instituição. Além disso, os doadores podem enviar suas propostas previamente pela plataforma, eliminando a necessidade de ligações telefônicas e permitindo que aguardem o feedback diretamente na plataforma.
 
