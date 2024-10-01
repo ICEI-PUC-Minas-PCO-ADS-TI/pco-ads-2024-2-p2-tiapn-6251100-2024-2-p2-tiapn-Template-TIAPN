@@ -29,6 +29,7 @@ Esse processo também envolve muitas etapas manuais, ligações e verificações
 
 Modelo AS IS - Meta
 (Imagem Meta)
+![ModeloColeta](https://github.com/ICEI-PUC-Minas-PCO-ADS-TI/2024-2-p2-tiapn-doaso/blob/0d348a15be97ec462e9d7313706b0879f4cf9a12/docs/images/AS%20IS%20-%20Meta.png)
 ## Descrição geral da proposta (Modelagem TO BE)
 
 Após identificar gargalos e complicações nos modelos AS-IS, a equipe implementou melhorias significativas nos processos de definição de metas e coleta de doações. O processo manual e demorado de contato com potenciais doadores foi substituído pelas ferramentas oferecidas pela plataforma DoaSô.
