@@ -40,7 +40,7 @@ Modelo AS IS - Coleta
 
 Modelo AS IS - Meta
 (Imagem Meta)
-![ModeloColeta](images/TO%20BE%20Meta.png)
+![ModeloColeta](images/TO%20BE%20-%20Metas.png)
 
 A equipe propõe substituir os processos manuais pela plataforma DoaSô, economizando esforço e tempo para a Delvis Modas. Com a DoaSô, a instituição pode visualizar os itens a serem doados sem a necessidade de encontros presenciais entre doadores e a instituição. Além disso, os doadores podem enviar suas propostas previamente pela plataforma, eliminando a necessidade de ligações telefônicas e permitindo que aguardem o feedback diretamente na plataforma.
 
