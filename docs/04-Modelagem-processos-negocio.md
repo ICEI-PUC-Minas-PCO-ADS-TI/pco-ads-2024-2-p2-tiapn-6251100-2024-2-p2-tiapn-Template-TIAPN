@@ -16,7 +16,7 @@ Se o conserto for possível, os itens são armazenados. Caso contrário, são de
 Este processo atual depende totalmente de contatos manuais e repetitivos, além de exigir esforço físico para transporte e reparo dos itens, o que poderia ser otimizado com uma solução automatizada.
 
 Modelo AS IS - Coleta
-(Imagem Coleta)
+![ModeloColeta](https://github.com/ICEI-PUC-Minas-PCO-ADS-TI/2024-2-p2-tiapn-doaso/blob/0d348a15be97ec462e9d7313706b0879f4cf9a12/docs/images/AS%20IS%20-%20Coleta.png)
 
 **Processo de Coleta de Doações de Moedas**
 Da mesma forma, o processo de doações de moedas segue uma rotina manual. Esse processo começa com a definição de uma meta de doação e segue os seguintes passos:
