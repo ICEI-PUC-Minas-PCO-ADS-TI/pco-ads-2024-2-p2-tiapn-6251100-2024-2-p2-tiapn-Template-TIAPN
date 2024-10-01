@@ -42,9 +42,9 @@ Nosso objetivo é simplificar processos demorados e eliminar tarefas manuais des
 
 ## Modelagem dos processos
 
-[PROCESSO 1 - Determinar Metas de Doações](./processes/processo-1-nome-do-processo.md "Detalhamento do processo 1.")
+[PROCESSO 1 - Coletar Doações](./processes/processo-1-nome-do-processo.md "Detalhamento do processo 1.")
 
-[PROCESSO 2 - Coletar Doações](./processes/processo-2-nome-do-processo.md "Detalhamento do processo 2.")
+[PROCESSO 2 - Determinar Metas de Doações](./processes/processo-2-nome-do-processo.md "Detalhamento do processo 2.")
 
 
 ## Indicadores de desempenho
